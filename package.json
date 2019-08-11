@@ -1,0 +1,33 @@
+{
+	"name": "material-synthwave-vscode",
+	"displayName": "Material SynthWave",
+	"description": "An amalgamation of Robb Owen's Synthwave 84 window coloring and equinusocio's Material Theme Palenight font coloring",
+	"version": "0.0.1",
+	"author": "nexxai",
+	"publisher": "nexxai",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nexxai/material-synthwave-vscode"
+	},
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"keywords": [
+		"retro",
+		"80s",
+		"material"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Synthwave",
+				"uiTheme": "vs-dark",
+				"path": "./themes/synthwave-color-theme.json"
+			}
+		]
+	}
+}
