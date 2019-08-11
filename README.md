@@ -5,3 +5,6 @@ I've made no other changes than those.
 
 ## Installation
 [Install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=nexxai.material-synthwave-vscode).
+
+## Contributions
+By all means, submit a PR for any changes you'd make to this.  I'm not expecting anyone but myself to use it anyways so if even one other person decides it's not murder on the eyes, I feel morally bound to listen to their suggestions and will likely merge them without discussion.
