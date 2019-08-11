@@ -4,4 +4,4 @@ A very simple and probably visually not-so-great mash-up of Robb Owen's [SynthWa
 I've made no other changes than those.
 
 ## Installation
-[Install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode).
+[Install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=nexxai.material-synthwave-vscode).

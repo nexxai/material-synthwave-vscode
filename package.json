@@ -5,7 +5,6 @@
 	"version": "0.0.1",
 	"author": "nexxai",
 	"publisher": "nexxai",
-	"icon": "icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/nexxai/material-synthwave-vscode"
